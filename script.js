@@ -1,5 +1,6 @@
 console.log("Welcome to Tic Tac Toe")
-google.com, pub-1459552459673699, DIRECT, f08c47fec0942fa0
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1459552459673699"
+     crossorigin="anonymous"></script>
 let music = new Audio("music.mp3")
 let audioTurn = new Audio("ting.mp3")
 let gameover = new Audio("gameover.mp3")
